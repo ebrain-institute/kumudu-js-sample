@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    text-align: center;
+    color: #333;
+}
+
+.user-info {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #e2e2e2;
+    border-radius: 5px;
+}
+
+#posts {
+    margin-top: 20px;
+}
+
+.post {
+    margin-bottom: 15px;
+    padding: 15px;
+    background-color: #e9f7fd;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.post h3 {
+    margin: 0;
+    padding-bottom: 10px;
+    color: #31708e;
+}
+
+.post p {
+    margin: 0;
+}
